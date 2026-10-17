@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/SnnDev"><img src="https://komarev.com/ghpvc/?username=SnnDev&color=C0392B&style=flat-square&label=Visitas" alt="Visitas"/></a>
-  <img src="https://img.shields.io/github/followers/SnnDev?label=Seguidores&style=flat-square&color=0F3B44&labelColor=0D1117" alt="Seguidores"/>
+  <img src="https://img.shields.io/badge/Nebulous_Verse-Dono-C0392B?style=flat-square&labelColor=0D1117" alt="Nebulous Verse: Dono"/>
+  <img src="https://img.shields.io/badge/Minecraft-Plugins-0F3B44?style=flat-square&labelColor=0D1117" alt="Minecraft: Plugins"/>
 </div>
 
 <h3>🧑‍💻 &nbsp;Sobre mim</h3>
