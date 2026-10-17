@@ -52,10 +52,12 @@
 
 <h3>🚀 &nbsp;Projeto em destaque</h3>
 
-> **🌌 Nebulous Verse**: rede de Minecraft com sistemas 100% próprios em Java, para jogadores **Java + Bedrock**.
+
+> 🌌 **Nebulous Verse**
 >
-> **Nyvora**, o survival da rede: balões com caixas, dinheiro físico assinado (anti-duplicação), banco e mercado,
-> terrenos e clãs, identidade e ranks. Na rede também tem minigames e um sistema de punições próprio.
+> Estamos criando um lugar pra jogar com os amigos, conhecer gente nova e ter vontade de voltar no dia seguinte.
+>
+> O **Nyvora** faz parte disso. Ainda tem bastante coisa pela frente, e queremos dividir esse começo com vocês.
 
 <h3>📊 &nbsp;Estatísticas</h3>
 
