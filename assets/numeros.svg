@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="236" viewBox="0 0 840 236" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+  <style>
+    .t { opacity: 0; animation: surge .6s ease-out forwards; }
+    .n { fill: #F4EBD0; font-size: 28px; font-weight: 700; }
+    .l { fill: #8B949E; font-size: 13px; }
+    @keyframes surge { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  </style>
+  <defs>
+    <linearGradient id="faixa" x1="0" x2="1">
+      <stop offset="0" stop-color="#0F3B44"/>
+      <stop offset=".5" stop-color="#7A1F1A"/>
+      <stop offset="1" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="839" height="235" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <rect x="1" y="1" width="838" height="4" rx="2" fill="url(#faixa)"/>
+  <text x="24" y="38" fill="#C0392B" font-size="18" font-weight="700">Nebulous Verse em números</text>
+  <text x="816" y="38" fill="#8B949E" font-size="12" text-anchor="end">código próprio, contado direto dos projetos</text>
+
+  <g class="t" style="animation-delay:.05s">
+    <rect x="24" y="58" width="252" height="74" rx="8" fill="#161B22" stroke="#30363D"/>
+    <rect x="24" y="58" width="4" height="74" rx="2" fill="#C0392B"/>
+    <text x="44" y="96" class="n">98 mil</text>
+    <text x="44" y="118" class="l">linhas de Java</text>
+  </g>
+  <g class="t" style="animation-delay:.15s">
+    <rect x="294" y="58" width="252" height="74" rx="8" fill="#161B22" stroke="#30363D"/>
+    <rect x="294" y="58" width="4" height="74" rx="2" fill="#C0392B"/>
+    <text x="314" y="96" class="n">469</text>
+    <text x="314" y="118" class="l">classes</text>
+  </g>
+  <g class="t" style="animation-delay:.25s">
+    <rect x="564" y="58" width="252" height="74" rx="8" fill="#161B22" stroke="#30363D"/>
+    <rect x="564" y="58" width="4" height="74" rx="2" fill="#C0392B"/>
+    <text x="584" y="96" class="n">661</text>
+    <text x="584" y="118" class="l">testes automáticos</text>
+  </g>
+  <g class="t" style="animation-delay:.35s">
+    <rect x="24" y="146" width="252" height="74" rx="8" fill="#161B22" stroke="#30363D"/>
+    <rect x="24" y="146" width="4" height="74" rx="2" fill="#1B4D57"/>
+    <text x="44" y="184" class="n">3</text>
+    <text x="44" y="206" class="l">plugins próprios na rede</text>
+  </g>
+  <g class="t" style="animation-delay:.45s">
+    <rect x="294" y="146" width="252" height="74" rx="8" fill="#161B22" stroke="#30363D"/>
+    <rect x="294" y="146" width="4" height="74" rx="2" fill="#1B4D57"/>
+    <text x="314" y="184" class="n">Paper 26.3</text>
+    <text x="314" y="206" class="l">versão mais nova do Minecraft</text>
+  </g>
+  <g class="t" style="animation-delay:.55s">
+    <rect x="564" y="146" width="252" height="74" rx="8" fill="#161B22" stroke="#30363D"/>
+    <rect x="564" y="146" width="4" height="74" rx="2" fill="#1B4D57"/>
+    <text x="584" y="184" class="n">Java + Bedrock</text>
+    <text x="584" y="206" class="l">PC e celular no mesmo servidor</text>
+  </g>
+</svg>
