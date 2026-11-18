@@ -17,7 +17,8 @@
 - 👋 Sou o **Nikolas Ferreira**, mas na internet me chamam de **SnnDev**.
 - 🌌 Dono do **Nebulous Verse**, uma rede de Minecraft feita com sistemas próprios.
 - 🔥 Desenvolvedor **back-end** focado em **Java**.
-- ⛏️ Crio **plugins e sistemas para servidores de Minecraft** (Paper, Java + Bedrock).
+- ⛏️ Crio **plugins e sistemas para servidores de Minecraft** (Paper, Folia e Velocity; Java + Bedrock).
+- 🖥️ Faço também o **launcher da rede** em **Rust + Tauri**.
 - 🎨 Também mexo com **modelos, texturas e shaders** para pacotes de recursos.
 - 📚 Sempre estudando desempenho, segurança e arquitetura de sistemas.
 - 📍 Brasil <img width="16" src="https://flagcdn.com/w20/br.png" alt="BR"/>
@@ -28,7 +29,14 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=C0392B)&nbsp;
 ![GLSL](https://img.shields.io/badge/GLSL-0D1117?style=for-the-badge&logo=opengl&logoColor=5586A4)&nbsp;
 ![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzI2NzFCRSIvPjxwYXRoIGQ9Ik01IDdsNiA1LTYgNSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTEyIDE3aDciIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg==)&nbsp;
-![JSON](https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=F4EBD0)
+![JSON](https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=F4EBD0)&nbsp;
+![YAML](https://img.shields.io/badge/YAML-0D1117?style=for-the-badge&logo=yaml&logoColor=CB171E)
+**|**
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=F4EBD0)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=663399)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 **|**
 
 <h3>🛠️ &nbsp;Plataformas e ferramentas</h3>
@@ -37,6 +45,10 @@
 ![Paper](https://img.shields.io/badge/PaperMC-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y0RUJEMCIgZD0iTTQgMmgxMmw0IDR2MTZINFoiLz48L3N2Zz4=)&nbsp;
 ![Minecraft](https://img.shields.io/badge/Minecraft-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDgiIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI%2BPHBhdGggZmlsbD0iIzc5NTUzQSIgZD0iTTAgMGg4djhIMHoiLz48cGF0aCBmaWxsPSIjNUQ5QzNDIiBkPSJNMCAwaDh2M0gweiIvPjxwYXRoIGZpbGw9IiM3QkJGNEQiIGQ9Ik0xIDBoMnYxSDF6bTQgMGgydjFINXpNMCAxaDF2MUgwem0zIDFoMnYxSDN6Ii8%2BPHBhdGggZmlsbD0iIzVEOUMzQyIgZD0iTTEgM2gxdjFIMXptNCAwaDF2Mkg1eiIvPjxwYXRoIGZpbGw9IiM5NjZDNEEiIGQ9Ik0yIDVoMXYxSDJ6bTQgMWgxdjFINnpNMSA3aDF2MUgxeiIvPjwvc3ZnPg==)&nbsp;
 ![Geyser](https://img.shields.io/badge/Geyser_(Bedrock)-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRBQThEOCIgZD0iTTEyIDJsOSA1djEwbC05IDUtOS01Vjd6Ii8%2BPHBhdGggZmlsbD0iIzJBNkY5NiIgZD0iTTEyIDEybDktNXYxMGwtOSA1eiIvPjxwYXRoIGZpbGw9IiM3Q0M2RUEiIGQ9Ik0xMiAybDkgNS05IDUtOS01eiIvPjwvc3ZnPg==)
+**|**
+![Folia](https://img.shields.io/badge/Folia-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzVEOUMzQyIgZD0iTTEyIDJDNiA2IDQgMTIgNiAxOGw2LTZ2MTBjNi00IDgtMTAgNi0xNnoiLz48L3N2Zz4=)&nbsp;
+![Velocity](https://img.shields.io/badge/Velocity-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzFCQjVFNiIgZD0iTTIgNGg2bDQgMTBMMTYgNGg2TDE0IDIwaC00eiIvPjwvc3ZnPg==)&nbsp;
+![Tauri](https://img.shields.io/badge/Tauri-0D1117?style=for-the-badge&logo=tauri&logoColor=FFC131)
 **|**
 ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4AA8D8)&nbsp;
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
@@ -62,7 +74,7 @@
 <h3>📊 &nbsp;Estatísticas</h3>
 
 <div align="center">
-  <img src="assets/numeros.svg" width="100%" alt="Nebulous Verse em números: 98 mil linhas de Java, 469 classes, 661 testes automáticos, 3 plugins próprios"/>
+  <img src="assets/numeros.svg" width="100%" alt="Nebulous Verse em números: 206 mil linhas de Java, 1.867 classes, 2,1 mil testes automáticos, 25 plugins próprios, 27 repositórios"/>
 </div>
 
 <!-- Cartões do GitHub: só leem o que está nesta conta (nova). Ligar quando houver repositórios públicos.
