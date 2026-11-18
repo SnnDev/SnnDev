@@ -18,7 +18,7 @@
 - 🌌 Dono do **Nebulous Verse**, uma rede de Minecraft feita com sistemas próprios.
 - 🔥 Desenvolvedor **back-end** focado em **Java**.
 - ⛏️ Crio **plugins e sistemas para servidores de Minecraft** (Paper, Folia e Velocity; Java + Bedrock).
-- 🖥️ Faço também o **launcher da rede** em **Rust + Tauri**.
+- 🖥️ trabalho também com **launcher da rede** em **Rust + Tauri**.
 - 🎨 Também mexo com **modelos, texturas e shaders** para pacotes de recursos.
 - 📚 Sempre estudando desempenho, segurança e arquitetura de sistemas.
 - 📍 Brasil <img width="16" src="https://flagcdn.com/w20/br.png" alt="BR"/>
